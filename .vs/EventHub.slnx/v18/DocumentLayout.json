@@ -1,0 +1,661 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\baitap\\CongNgheNet\\EventHub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|c:\\baitap\\congnghenet\\eventhub\\views\\sukien\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|solutionrelative:views\\sukien\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|c:\\baitap\\congnghenet\\eventhub\\controllers\\dangkycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|solutionrelative:controllers\\dangkycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|c:\\baitap\\congnghenet\\eventhub\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|solutionrelative:data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|c:\\baitap\\congnghenet\\eventhub\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|c:\\baitap\\congnghenet\\eventhub\\areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|c:\\baitap\\congnghenet\\eventhub\\areas\\identity\\pages\\account\\registerconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|solutionrelative:areas\\identity\\pages\\account\\registerconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|c:\\baitap\\congnghenet\\eventhub\\areas\\identity\\pages\\account\\manage\\setpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\setpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|c:\\baitap\\congnghenet\\eventhub\\areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|c:\\baitap\\congnghenet\\eventhub\\areas\\identity\\pages\\account\\manage\\personaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\personaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|c:\\baitap\\congnghenet\\eventhub\\areas\\identity\\pages\\account\\manage\\resetauthenticator.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\resetauthenticator.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|c:\\baitap\\congnghenet\\eventhub\\areas\\identity\\pages\\account\\manage\\twofactorauthentication.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\twofactorauthentication.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|c:\\baitap\\congnghenet\\eventhub\\areas\\identity\\pages\\account\\resendemailconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|solutionrelative:areas\\identity\\pages\\account\\resendemailconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|c:\\baitap\\congnghenet\\eventhub\\areas\\identity\\pages\\account\\resetpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|solutionrelative:areas\\identity\\pages\\account\\resetpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|c:\\baitap\\congnghenet\\eventhub\\areas\\identity\\pages\\account\\manage\\generaterecoverycodes.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\generaterecoverycodes.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|c:\\baitap\\congnghenet\\eventhub\\areas\\identity\\pages\\account\\manage\\externallogins.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\externallogins.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|c:\\baitap\\congnghenet\\eventhub\\areas\\identity\\pages\\account\\manage\\enableauthenticator.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\enableauthenticator.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|c:\\baitap\\congnghenet\\eventhub\\areas\\identity\\pages\\account\\manage\\email.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\email.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|c:\\baitap\\congnghenet\\eventhub\\areas\\identity\\pages\\account\\manage\\downloadpersonaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\downloadpersonaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|c:\\baitap\\congnghenet\\eventhub\\areas\\identity\\pages\\account\\manage\\disable2fa.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\disable2fa.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|c:\\baitap\\congnghenet\\eventhub\\areas\\identity\\pages\\account\\manage\\deletepersonaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\deletepersonaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|c:\\baitap\\congnghenet\\eventhub\\areas\\identity\\pages\\account\\manage\\changepassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\changepassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|c:\\baitap\\congnghenet\\eventhub\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|solutionrelative:areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|c:\\baitap\\congnghenet\\eventhub\\areas\\identity\\pages\\account\\loginwithrecoverycode.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|solutionrelative:areas\\identity\\pages\\account\\loginwithrecoverycode.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|c:\\baitap\\congnghenet\\eventhub\\areas\\identity\\pages\\account\\loginwith2fa.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|solutionrelative:areas\\identity\\pages\\account\\loginwith2fa.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|c:\\baitap\\congnghenet\\eventhub\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|c:\\baitap\\congnghenet\\eventhub\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|solutionrelative:areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|c:\\baitap\\congnghenet\\eventhub\\areas\\identity\\pages\\account\\externallogin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|solutionrelative:areas\\identity\\pages\\account\\externallogin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|c:\\baitap\\congnghenet\\eventhub\\areas\\identity\\pages\\account\\confirmemailchange.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|solutionrelative:areas\\identity\\pages\\account\\confirmemailchange.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|c:\\baitap\\congnghenet\\eventhub\\areas\\identity\\pages\\account\\confirmemail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|solutionrelative:areas\\identity\\pages\\account\\confirmemail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|c:\\baitap\\congnghenet\\eventhub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|c:\\baitap\\congnghenet\\eventhub\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|c:\\baitap\\congnghenet\\eventhub\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|solutionrelative:areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|c:\\baitap\\congnghenet\\eventhub\\areas\\identity\\pages\\account\\loginwithrecoverycode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|solutionrelative:areas\\identity\\pages\\account\\loginwithrecoverycode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|c:\\baitap\\congnghenet\\eventhub\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|solutionrelative:areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|c:\\baitap\\congnghenet\\eventhub\\areas\\identity\\pages\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|solutionrelative:areas\\identity\\pages\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|c:\\baitap\\congnghenet\\eventhub\\areas\\identity\\pages\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|solutionrelative:areas\\identity\\pages\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|c:\\baitap\\congnghenet\\eventhub\\eventhub.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|solutionrelative:eventhub.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|c:\\baitap\\congnghenet\\eventhub\\models\\eventhubcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|solutionrelative:models\\eventhubcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|c:\\baitap\\congnghenet\\eventhub\\views\\sukien\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|solutionrelative:views\\sukien\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|c:\\baitap\\congnghenet\\eventhub\\controllers\\sukiencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA87144-F774-C258-8FE8-36E096B41A44}|EventHub.csproj|solutionrelative:controllers\\sukiencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 35,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DangKyController.cs",
+              "DocumentMoniker": "C:\\baitap\\CongNgheNet\\EventHub\\Controllers\\DangKyController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DangKyController.cs",
+              "ToolTip": "C:\\baitap\\CongNgheNet\\EventHub\\Controllers\\DangKyController.cs",
+              "RelativeToolTip": "Controllers\\DangKyController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAIwFcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T16:43:15.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ManageNav.cshtml",
+              "DocumentMoniker": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ToolTip": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-24T15:59:45.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterConfirmation.cshtml.cs",
+              "DocumentMoniker": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "ToolTip": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T15:59:42.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SetPassword.cshtml.cs",
+              "DocumentMoniker": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml.cs",
+              "ToolTip": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T15:59:25.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "ToolTip": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwBUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T15:59:07.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ResetAuthenticator.cshtml.cs",
+              "DocumentMoniker": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\Manage\\ResetAuthenticator.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\ResetAuthenticator.cshtml.cs",
+              "ToolTip": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\Manage\\ResetAuthenticator.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\ResetAuthenticator.cshtml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T15:59:03.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TwoFactorAuthentication.cshtml.cs",
+              "DocumentMoniker": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\Manage\\TwoFactorAuthentication.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\TwoFactorAuthentication.cshtml.cs",
+              "ToolTip": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\Manage\\TwoFactorAuthentication.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\TwoFactorAuthentication.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T15:58:59.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ResendEmailConfirmation.cshtml.cs",
+              "DocumentMoniker": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml.cs",
+              "ToolTip": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T15:58:58.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ResetPassword.cshtml.cs",
+              "DocumentMoniker": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "ToolTip": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T15:58:40.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PersonalData.cshtml.cs",
+              "DocumentMoniker": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
+              "ToolTip": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T15:58:37.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GenerateRecoveryCodes.cshtml.cs",
+              "DocumentMoniker": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\Manage\\GenerateRecoveryCodes.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\GenerateRecoveryCodes.cshtml.cs",
+              "ToolTip": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\Manage\\GenerateRecoveryCodes.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\GenerateRecoveryCodes.cshtml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwBAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T15:58:35.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ExternalLogins.cshtml.cs",
+              "DocumentMoniker": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml.cs",
+              "ToolTip": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T15:58:25.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EnableAuthenticator.cshtml.cs",
+              "DocumentMoniker": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml.cs",
+              "ToolTip": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T15:58:24.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Email.cshtml.cs",
+              "DocumentMoniker": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml.cs",
+              "ToolTip": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T15:58:21.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DownloadPersonalData.cshtml.cs",
+              "DocumentMoniker": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml.cs",
+              "ToolTip": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T15:57:57.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Disable2fa.cshtml.cs",
+              "DocumentMoniker": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\Manage\\Disable2fa.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\Disable2fa.cshtml.cs",
+              "ToolTip": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\Manage\\Disable2fa.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\Disable2fa.cshtml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T15:57:45.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DeletePersonalData.cshtml.cs",
+              "DocumentMoniker": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml.cs",
+              "ToolTip": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAlwBAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T15:57:38.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ChangePassword.cshtml.cs",
+              "DocumentMoniker": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
+              "ToolTip": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAtwBAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T15:57:31.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAtwBAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T15:57:23.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoginWithRecoveryCode.cshtml.cs",
+              "DocumentMoniker": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml.cs",
+              "ToolTip": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAtwBEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T15:57:12.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoginWith2fa.cshtml.cs",
+              "DocumentMoniker": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml.cs",
+              "ToolTip": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAtwBIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T15:57:05.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAD4vxYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T15:53:49.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ForgotPassword.cshtml.cs",
+              "DocumentMoniker": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ToolTip": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAD4vxQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T15:53:38.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ExternalLogin.cshtml.cs",
+              "DocumentMoniker": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "ToolTip": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAD4vxkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T15:53:33.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ConfirmEmailChange.cshtml.cs",
+              "DocumentMoniker": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml.cs",
+              "ToolTip": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAD4vxAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T15:53:27.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ConfirmEmail.cshtml.cs",
+              "DocumentMoniker": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "ToolTip": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAD4vxQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T15:53:01.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-24T15:51:50.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-24T15:51:42.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LoginWithRecoveryCode.cshtml",
+              "DocumentMoniker": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
+              "ToolTip": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-24T15:51:37.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-24T15:51:30.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ConfirmEmail.cshtml",
+              "DocumentMoniker": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "ToolTip": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-24T15:51:16.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "ToolTip": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-24T15:51:14.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "EventHub.csproj",
+              "DocumentMoniker": "C:\\baitap\\CongNgheNet\\EventHub\\EventHub.csproj",
+              "RelativeDocumentMoniker": "EventHub.csproj",
+              "ToolTip": "C:\\baitap\\CongNgheNet\\EventHub\\EventHub.csproj",
+              "RelativeToolTip": "EventHub.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-24T15:45:22.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\baitap\\CongNgheNet\\EventHub\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAmwLQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T15:02:22.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\baitap\\CongNgheNet\\EventHub\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "Data\\SeedData.cs",
+              "ToolTip": "C:\\baitap\\CongNgheNet\\EventHub\\Data\\SeedData.cs",
+              "RelativeToolTip": "Data\\SeedData.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCEAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T12:23:13.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\baitap\\CongNgheNet\\EventHub\\Views\\SuKien\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\SuKien\\Details.cshtml",
+              "ToolTip": "C:\\baitap\\CongNgheNet\\EventHub\\Views\\SuKien\\Details.cshtml",
+              "RelativeToolTip": "Views\\SuKien\\Details.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAQwC8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-20T16:43:30.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\baitap\\CongNgheNet\\EventHub\\Views\\SuKien\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\SuKien\\Index.cshtml",
+              "ToolTip": "C:\\baitap\\CongNgheNet\\EventHub\\Views\\SuKien\\Index.cshtml",
+              "RelativeToolTip": "Views\\SuKien\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-20T16:42:56.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SuKienController.cs",
+              "DocumentMoniker": "C:\\baitap\\CongNgheNet\\EventHub\\Controllers\\SuKienController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SuKienController.cs",
+              "ToolTip": "C:\\baitap\\CongNgheNet\\EventHub\\Controllers\\SuKienController.cs",
+              "RelativeToolTip": "Controllers\\SuKienController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowCAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T09:24:49.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "EventHubContext.cs",
+              "DocumentMoniker": "C:\\baitap\\CongNgheNet\\EventHub\\Models\\EventHubContext.cs",
+              "RelativeDocumentMoniker": "Models\\EventHubContext.cs",
+              "ToolTip": "C:\\baitap\\CongNgheNet\\EventHub\\Models\\EventHubContext.cs",
+              "RelativeToolTip": "Models\\EventHubContext.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAmwA4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T09:12:55.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\baitap\\CongNgheNet\\EventHub\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\baitap\\CongNgheNet\\EventHub\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T16:04:59.885Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

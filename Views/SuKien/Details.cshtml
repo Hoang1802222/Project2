@@ -1,0 +1,86 @@
+﻿@model EventHub.Models.SuKien
+@{
+    ViewData["Title"] = Model.TieuDe;
+    var soCho = ViewBag.SoChoConLai as EventHub.Models.VwSoChoConLai;
+}
+
+<div class="container py-4">
+    <div class="mb-3">
+        <a asp-action="Index" class="btn btn-link px-0">&larr; Quay lại danh sách sự kiện</a>
+    </div>
+
+    <div class="card shadow-sm mb-4">
+        <div class="card-body">
+            <span class="badge bg-secondary mb-2">@Model.MaChuDeNavigation?.TenChuDe</span>
+            <h2 class="card-title">@Model.TieuDe</h2>
+            <p class="text-muted">
+                <strong>Thời gian:</strong> @Model.ThoiGianBatDau.ToString("dd/MM/yyyy HH:mm") - @Model.ThoiGianKetThuc.ToString("dd/MM/yyyy HH:mm")<br />
+                <strong>Địa điểm:</strong> @(Model.DiaDiem ?? "Đang cập nhật")<br />
+                <strong>Người tổ chức:</strong> @Model.MaNguoiToChucNavigation?.HoTen
+            </p>
+            @if (soCho != null)
+            {
+                @*Hiện thông báo thành công/lỗi do Controller gửi sang (TemData chỉ sống đến lần tải trang kế tiếp )*@
+                @if (TempData["loi"] != null)
+                {
+                    <div class="alert alert-danger">@TempData["loi"]</div>
+                }
+                @if (User.Identity != null && User.Identity.IsAuthenticated)
+                {
+                    @if (User.IsInRole("NguoiThamDu"))
+                    {
+                        <form asp-controller="DangKy" asp-action="Tao" method="post">
+                            <input type="hidden" name="maSuKien" value="@Model.MaSuKien" />
+                            <button type="submit" class="btn btn-primary">Đăng ký tham dự</button>
+                        </form>
+                    }
+                }
+                else
+                {
+                    <a class="btn btn-outline-primary"
+                       href="/Identity/Account/Login?returnUrl=@Uri.EscapeDataString(Context.Request.Path)">
+                        Đăng nhập để đăng ký
+                    </a>
+                }
+                <div class="alert alert-light border">
+                    <strong>Số chỗ còn lại:</strong> @soCho.SoChoConLai
+                </div>
+            }
+            @if (!string.IsNullOrWhiteSpace(Model.MoTa))
+            {
+                <p class="mt-3">@Model.MoTa</p>
+            }
+        </div>
+    </div>
+
+    <h4 class="mb-3">Các phiên hội thảo</h4>
+    @if (Model.PhienHoiThaos == null || !Model.PhienHoiThaos.Any())
+    {
+        <div class="alert alert-info">Sự kiện chưa có phiên hội thảo nào.</div>
+    }
+    else
+    {
+        <div class="list-group">
+            @foreach (var phien in Model.PhienHoiThaos)
+            {
+                <div class="list-group-item">
+                    <h5 class="mb-1">@phien.TieuDe</h5>
+                    <p class="mb-1 small text-muted">
+                        <strong>Thời gian:</strong> @phien.ThoiGianBatDau.ToString("dd/MM/yyyy HH:mm") - @phien.ThoiGianKetThuc.ToString("dd/MM/yyyy HH:mm")
+                        @if (!string.IsNullOrWhiteSpace(phien.PhongHop))
+                        {
+                            <span> | <strong>Phòng:</strong> @phien.PhongHop</span>
+                        }
+                    </p>
+                    @if (phien.MaDienGia.Any())
+                    {
+                        <p class="mb-0 small">
+                            <strong>Diễn giả:</strong>
+                            @string.Join(", ", phien.MaDienGia.Select(d => d.HoTen))
+                        </p>
+                    }
+                </div>
+            }
+        </div>
+    }
+</div>
