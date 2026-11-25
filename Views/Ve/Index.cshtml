@@ -1,0 +1,47 @@
+﻿@model List<EventHub.Models.VeViewModel>
+@{
+    ViewData["Title"] = "Vé của tôi";
+}
+
+<div class="container py-4">
+    <h2 class="mb-4">Vé của tôi</h2>
+
+    @if (!Model.Any())
+    {
+        <div class="alert alert-info">Bạn chưa đăng ký sự kiện nào.</div>
+    }
+    else
+    {
+        <div class="row">
+            @foreach (var ve in Model)
+            {
+                <div class="col-md-4 mb-4">
+                    <div class="card shadow-sm text-center h-100">
+                        <div class="card-body">
+                            <h5 class="card-title">@ve.TieuDe</h5>
+                            <p class="small text-muted mb-2">
+                                @ve.ThoiGianBatDau.ToString("dd/MM/yyyy HH:mm")<br />
+                                @ve.DiaDiem
+                            </p>
+                            @* Nhúng ảnh QR trực tiếp từ chuỗi base64, không cần lưu file *@
+                            <img src="data:image/png;base64,@ve.QrBase64" alt="Mã QR vé" class="img-fluid" style="max-width:220px" />
+                            <p class="mt-2 mb-1 small text-break">Mã vé: @ve.SoVe</p>
+                            @if (ve.TrangThaiVe == "HopLe")
+                            {
+                                <span class="badge bg-success">Hợp lệ</span>
+                            }
+                            else if (ve.TrangThaiVe == "DaSuDung")
+                            {
+                                <span class="badge bg-secondary">Đã sử dụng</span>
+                            }
+                            else
+                            {
+                                <span class="badge bg-danger">Đã hủy</span>
+                            }
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+</div>

@@ -954,6 +954,15 @@
           "buildTransitive/netstandard2.0/OpenAI.targets": {}
         }
       },
+      "QRCoder/1.6.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/QRCoder.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/QRCoder.dll": {}
+        }
+      },
       "System.ClientModel/1.16.0": {
         "type": "package",
         "dependencies": {
@@ -3175,6 +3184,27 @@
         "openai.nuspec"
       ]
     },
+    "QRCoder/1.6.0": {
+      "sha512": "XmPA81eo+oRxBuyVdswsSkTGTE1d3thfF11Z1PdD7oB56A6HU4G4AAOdySmGRMb/cljwlFTMWUtosGEnwpS6GA==",
+      "type": "package",
+      "path": "qrcoder/1.6.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net35/QRCoder.dll",
+        "lib/net40/QRCoder.dll",
+        "lib/net5.0-windows7.0/QRCoder.dll",
+        "lib/net5.0/QRCoder.dll",
+        "lib/net6.0-windows7.0/QRCoder.dll",
+        "lib/net6.0/QRCoder.dll",
+        "lib/netstandard1.3/QRCoder.dll",
+        "lib/netstandard2.0/QRCoder.dll",
+        "nuget-icon.png",
+        "nuget-readme.md",
+        "qrcoder.1.6.0.nupkg.sha512",
+        "qrcoder.nuspec"
+      ]
+    },
     "System.ClientModel/1.16.0": {
       "sha512": "vLljZON+8lXDUtsPP8uwsPvsBSQaUHhh8NvB+D9TQsXu5n622RLtuLyZAcyIFc98b8ixrwD0AhzUQhtg2NwJnQ==",
       "type": "package",
@@ -3550,6 +3580,7 @@
       "Microsoft.EntityFrameworkCore.Tools >= 10.0.15",
       "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.24.2-preview.1",
       "OpenAI >= 2.15.0",
+      "QRCoder >= 1.6.0",
       "System.Security.Cryptography.Pkcs >= 10.0.14"
     ]
   },
@@ -3639,6 +3670,10 @@
           "OpenAI": {
             "target": "Package",
             "version": "[2.15.0, )"
+          },
+          "QRCoder": {
+            "target": "Package",
+            "version": "[1.6.0, )"
           },
           "System.Security.Cryptography.Pkcs": {
             "target": "Package",

@@ -13,7 +13,8 @@
           "Microsoft.AspNetCore.Identity.UI": "10.0.15",
           "Microsoft.EntityFrameworkCore.Design": "10.0.15",
           "Microsoft.EntityFrameworkCore.SqlServer": "10.0.15",
-          "OpenAI": "2.15.0"
+          "OpenAI": "2.15.0",
+          "QRCoder": "1.6.0"
         },
         "runtime": {
           "EventHub.dll": {}
@@ -730,6 +731,14 @@
           }
         }
       },
+      "QRCoder/1.6.0": {
+        "runtime": {
+          "lib/net6.0/QRCoder.dll": {
+            "assemblyVersion": "1.6.0.0",
+            "fileVersion": "1.6.0.0"
+          }
+        }
+      },
       "System.ClientModel/1.16.0": {
         "dependencies": {
           "System.Memory.Data": "10.0.10"
@@ -1114,6 +1123,13 @@
       "sha512": "sha512-04Lvp/guze35OdYsEcQY58SmSCBWCEDCGkiLiTQXDJy5L3d20n7I/zg94ry9hQ5c4dMDF1ASqlxD/IIMy47gFg==",
       "path": "openai/2.15.0",
       "hashPath": "openai.2.15.0.nupkg.sha512"
+    },
+    "QRCoder/1.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XmPA81eo+oRxBuyVdswsSkTGTE1d3thfF11Z1PdD7oB56A6HU4G4AAOdySmGRMb/cljwlFTMWUtosGEnwpS6GA==",
+      "path": "qrcoder/1.6.0",
+      "hashPath": "qrcoder.1.6.0.nupkg.sha512"
     },
     "System.ClientModel/1.16.0": {
       "type": "package",

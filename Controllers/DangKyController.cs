@@ -85,7 +85,7 @@ namespace EventHub.Controllers
             }
             await _db.SaveChangesAsync();
             TempData["ThanhCong"] = "Đăng ký sự kiện thành công!";
-            return RedirectToAction("ChiTiet", "SuKien", new { maSuKien = maSuKien });
+            return RedirectToAction("Index", "Ve");
         }
     }
 }

@@ -298,3 +298,4 @@ C:\baitap\CongNgheNet\EventHub\obj\Debug\net10.0\ref\EventHub.dll
 C:\baitap\CongNgheNet\EventHub\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
 C:\baitap\CongNgheNet\EventHub\bin\Debug\net10.0\OpenAI.dll
 C:\baitap\CongNgheNet\EventHub\bin\Debug\net10.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\baitap\CongNgheNet\EventHub\bin\Debug\net10.0\QRCoder.dll
